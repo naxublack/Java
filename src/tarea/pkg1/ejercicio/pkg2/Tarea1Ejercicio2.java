@@ -54,7 +54,7 @@ public class Tarea1Ejercicio2 {
      {
         sum += a[k] * b[k];    
      }
-
+     //Imprimir costo
      System.out.println("Costo total de la Mochila: "+sum);
 
     
